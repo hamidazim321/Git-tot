@@ -1,2 +1,2 @@
 console.log("Config.js");
-console.log("Version 22")
+console.log("Version Hamid")
