@@ -1,2 +1,1 @@
-console.log("Config.js");
-console.log("CHANGEEEDD")
+console.log('Edited Directly from Github')
